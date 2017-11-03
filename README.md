@@ -11,18 +11,17 @@ Dokumentation nach der Vorlage
   
   https://pms.bwinf.de/app/PMS
 
-
-  Team-Name: was ist JAVA? 
-  Deine Team-ID= 00107
-  Deine Teilnahme-ID= 44265
-  Jahrgangsstufe11 = Q1 (G8) / EF (G9) 
-  Wettbewerb:
+>Team-Name: was ist JAVA? 
+>Deine Team-ID= 00107
+>Deine Teilnahme-ID= 44265
+>Jahrgangsstufe11 = Q1 (G8) / EF (G9) 
+>Wettbewerb:
   36. Bundeswettbewerb Informatik 2017/2018
-  Gegründet von:
+>Gegründet von:
 Paul Hollmann (S) <pauhol@schuldorf.de>
-  Betreuer:
+>Betreuer:
 Tobias Jördens, Schuldorf Bergstraße, Seeheim-Jugenheim/Technische Universität Darmstadt, Darmstadt
-  Mitglieder:
+>Mitglieder:
 Paul Hollmann <pauhol@schuldorf.de> / JgSt. 11 = Q1 (G8) / EF (G9)
 Niklas Beck <nikbec@schuldorf.de> / JgSt. 11 = Q1 (G8) / EF (G9)
 Anh Trung Pham <AnhPha@schuldorf.de> / JgSt. 11 = Q1 (G8) / EF (G9)

@@ -19,8 +19,7 @@ Dokumentation nach der Vorlage
 
 >Jahrgangsstufe11 = Q1 (G8) / EF (G9) 
 
->Wettbewerb:
-  36. Bundeswettbewerb Informatik 2017/2018
+>Wettbewerb: 36. Bundeswettbewerb Informatik 2017/2018
   
 >Gegründet von:
 Paul Hollmann (S) <pauhol@schuldorf.de>
